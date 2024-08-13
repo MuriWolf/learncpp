@@ -1,0 +1,6 @@
+# ninja log v6
+1	402	1723147737173209605	CMakeFiles/chapter-2-test.dir/main.cpp.o	5c3de96762c36ab
+402	464	1723147737573224174	chapter-2-test	34a310979da118c8
+1	907	1723434677018138902	CMakeFiles/chapter-2-test.dir/main.cpp.o	5c3de96762c36ab
+1	907	1723434677018138902	CMakeFiles/chapter-2-test.dir/io.cpp.o	e9907c5f6761f90f
+907	1064	1723434677926158093	chapter-2-test	80b5f7ff1d4a2428
